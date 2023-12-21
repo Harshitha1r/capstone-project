@@ -6,7 +6,7 @@
 
 Details and Assumptions
 
-  * [document what you know]
+      * [document what you know]
  
 **Acceptance Criteria**
 
